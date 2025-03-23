@@ -1069,7 +1069,7 @@
                 "provider": {
                   "title": "Provider",
                   "type": "string",
-                  "description": "Provider name, e.g. Microsoft, Nebucasa, DigitalOcean, etc"
+                  "description": "Provider name, e.g. Microsoft, Nabu Casa, DigitalOcean, etc"
                 },
                 "statusCheck": {
                   "title": "Enable Status Check",
